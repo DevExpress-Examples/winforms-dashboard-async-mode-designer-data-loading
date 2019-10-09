@@ -1528,7 +1528,6 @@
 			' 
 			' fileRibbonPageGroup1
 			' 
-			Me.fileRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.fileRibbonPageGroup1.ItemLinks.Add(Me.fileNewBarItem1)
 			Me.fileRibbonPageGroup1.ItemLinks.Add(Me.fileOpenBarItem1)
 			Me.fileRibbonPageGroup1.ItemLinks.Add(Me.fileSaveBarItem1)
@@ -1562,7 +1561,6 @@
 			' 
 			' quickAccessHistoryRibbonPageGroup1
 			' 
-			Me.quickAccessHistoryRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.quickAccessHistoryRibbonPageGroup1.ItemLinks.Add(Me.quickAccessUndoBarItem1)
 			Me.quickAccessHistoryRibbonPageGroup1.ItemLinks.Add(Me.quickAccessRedoBarItem1)
 			Me.quickAccessHistoryRibbonPageGroup1.Name = "quickAccessHistoryRibbonPageGroup1"
@@ -1580,7 +1578,6 @@
 			' 
 			' historyRibbonPageGroup1
 			' 
-			Me.historyRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.historyRibbonPageGroup1.ItemLinks.Add(Me.undoBarItem1)
 			Me.historyRibbonPageGroup1.ItemLinks.Add(Me.redoBarItem1)
 			Me.historyRibbonPageGroup1.Name = "historyRibbonPageGroup1"
@@ -1597,7 +1594,6 @@
 			' 
 			' insertRibbonPageGroup1
 			' 
-			Me.insertRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.insertRibbonPageGroup1.ItemLinks.Add(Me.insertPivotBarItem1)
 			Me.insertRibbonPageGroup1.ItemLinks.Add(Me.insertGridBarItem1)
 			Me.insertRibbonPageGroup1.ItemLinks.Add(Me.insertChartBarItem1)
@@ -1761,7 +1757,6 @@
 			' 
 			' itemOperationRibbonPageGroup1
 			' 
-			Me.itemOperationRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.itemOperationRibbonPageGroup1.ItemLinks.Add(Me.duplicateItemBarItem1)
 			Me.itemOperationRibbonPageGroup1.ItemLinks.Add(Me.deleteItemBarItem1)
 			Me.itemOperationRibbonPageGroup1.ItemLinks.Add(Me.convertDashboardItemTypeBarItem1)
@@ -1935,7 +1930,6 @@
 			' 
 			' groupOperationRibbonPageGroup1
 			' 
-			Me.groupOperationRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.groupOperationRibbonPageGroup1.ItemLinks.Add(Me.deleteGroupBarItem1)
 			Me.groupOperationRibbonPageGroup1.Name = "groupOperationRibbonPageGroup1"
 			Me.groupOperationRibbonPageGroup1.Visible = False
@@ -1947,7 +1941,6 @@
 			' 
 			' tabContainerOperationRibbonPageGroup1
 			' 
-			Me.tabContainerOperationRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tabContainerOperationRibbonPageGroup1.ItemLinks.Add(Me.deleteTabContainerBarItem1)
 			Me.tabContainerOperationRibbonPageGroup1.Name = "tabContainerOperationRibbonPageGroup1"
 			Me.tabContainerOperationRibbonPageGroup1.Visible = False
@@ -1959,7 +1952,6 @@
 			' 
 			' tabPageOperationRibbonPageGroup1
 			' 
-			Me.tabPageOperationRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tabPageOperationRibbonPageGroup1.ItemLinks.Add(Me.deleteTabPageBarItem1)
 			Me.tabPageOperationRibbonPageGroup1.Name = "tabPageOperationRibbonPageGroup1"
 			Me.tabPageOperationRibbonPageGroup1.Visible = False
@@ -1971,7 +1963,6 @@
 			' 
 			' dashboardDesignRibbonPageGroup1
 			' 
-			Me.dashboardDesignRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.dashboardDesignRibbonPageGroup1.ItemLinks.Add(Me.dashboardTitleBarItem1)
 			Me.dashboardDesignRibbonPageGroup1.ItemLinks.Add(Me.setCurrencyCultureBarItem1)
 			Me.dashboardDesignRibbonPageGroup1.ItemLinks.Add(Me.dashboardColorSchemeBarItem1)
@@ -2012,7 +2003,6 @@
 			' 
 			' dataSourceRibbonPageGroup1
 			' 
-			Me.dataSourceRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.dataSourceRibbonPageGroup1.ItemLinks.Add(Me.newDataSourceBarItem1)
 			Me.dataSourceRibbonPageGroup1.ItemLinks.Add(Me.editSqlConnectionBarItem1)
 			Me.dataSourceRibbonPageGroup1.ItemLinks.Add(Me.editXpoConnectionBarItem1)
@@ -2106,7 +2096,6 @@
 			' 
 			' sqlDataSourceQueryRibbonPageGroup1
 			' 
-			Me.sqlDataSourceQueryRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.sqlDataSourceQueryRibbonPageGroup1.ItemLinks.Add(Me.addQueryBarItem1)
 			Me.sqlDataSourceQueryRibbonPageGroup1.ItemLinks.Add(Me.editQueryBarItem1)
 			Me.sqlDataSourceQueryRibbonPageGroup1.ItemLinks.Add(Me.renameQueryBarItem1)
@@ -2142,7 +2131,6 @@
 			' 
 			' extractSourceRibbonPageGroup1
 			' 
-			Me.extractSourceRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.extractSourceRibbonPageGroup1.ItemLinks.Add(Me.editExtractSourceConnectionBarItem1)
 			Me.extractSourceRibbonPageGroup1.ItemLinks.Add(Me.editExtractSourceBarItem1)
 			Me.extractSourceRibbonPageGroup1.ItemLinks.Add(Me.editExtractSourceQueryBarItem1)
@@ -2166,7 +2154,6 @@
 			' 
 			' federationDataSourceQueryRibbonPageGroup1
 			' 
-			Me.federationDataSourceQueryRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.federationDataSourceQueryRibbonPageGroup1.ItemLinks.Add(Me.addFederationQueryBarItem1)
 			Me.federationDataSourceQueryRibbonPageGroup1.ItemLinks.Add(Me.editFederationQueryBarItem1)
 			Me.federationDataSourceQueryRibbonPageGroup1.ItemLinks.Add(Me.renameFederationQueryBarItem1)
@@ -2196,7 +2183,6 @@
 			' 
 			' dataSourceFilteringRibbonPageGroup1
 			' 
-			Me.dataSourceFilteringRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.dataSourceFilteringRibbonPageGroup1.ItemLinks.Add(Me.editDataSourceFilterBarItem1)
 			Me.dataSourceFilteringRibbonPageGroup1.ItemLinks.Add(Me.clearDataSourceFilterBarItem1)
 			Me.dataSourceFilteringRibbonPageGroup1.Name = "dataSourceFilteringRibbonPageGroup1"
@@ -2214,7 +2200,6 @@
 			' 
 			' skinsRibbonPageGroup1
 			' 
-			Me.skinsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.skinsRibbonPageGroup1.ItemLinks.Add(Me.dashboardSkinsBarItem1)
 			Me.skinsRibbonPageGroup1.ItemLinks.Add(Me.dashboardSkinDropDownButtonItem1)
 			Me.skinsRibbonPageGroup1.Name = "skinsRibbonPageGroup1"
@@ -2581,7 +2566,6 @@
 			' 
 			' skinPaletteGalleryRibbonPageGroup1
 			' 
-			Me.skinPaletteGalleryRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.skinPaletteGalleryRibbonPageGroup1.ItemLinks.Add(Me.dashboardSkinPaletteRibbonGalleryBarItem1)
 			Me.skinPaletteGalleryRibbonPageGroup1.Name = "skinPaletteGalleryRibbonPageGroup1"
 			' 
@@ -2592,7 +2576,6 @@
 			' 
 			' filteringRibbonPageGroup1
 			' 
-			Me.filteringRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup1.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup1.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup1.Name = "filteringRibbonPageGroup1"
@@ -2622,7 +2605,6 @@
 			' 
 			' interactivitySettingsRibbonPageGroup1
 			' 
-			Me.interactivitySettingsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup1.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup1.Name = "interactivitySettingsRibbonPageGroup1"
 			' 
@@ -2633,7 +2615,6 @@
 			' 
 			' commonItemDesignRibbonPageGroup1
 			' 
-			Me.commonItemDesignRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup1.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup1.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup1.Name = "commonItemDesignRibbonPageGroup1"
@@ -2656,7 +2637,6 @@
 			' 
 			' pivotInitialStateRibbonPageGroup1
 			' 
-			Me.pivotInitialStateRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.pivotInitialStateRibbonPageGroup1.ItemLinks.Add(Me.pivotInitialStateBarItem1)
 			Me.pivotInitialStateRibbonPageGroup1.Name = "pivotInitialStateRibbonPageGroup1"
 			' 
@@ -2682,7 +2662,6 @@
 			' 
 			' pivotLayoutRibbonPageGroup1
 			' 
-			Me.pivotLayoutRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.pivotLayoutRibbonPageGroup1.ItemLinks.Add(Me.pivotShowTotalsBarItem1)
 			Me.pivotLayoutRibbonPageGroup1.ItemLinks.Add(Me.pivotShowGrandTotalsBarItem1)
 			Me.pivotLayoutRibbonPageGroup1.ItemLinks.Add(Me.pivotLayoutTypeBarItem1)
@@ -2819,7 +2798,6 @@
 			' 
 			' filteringRibbonPageGroup2
 			' 
-			Me.filteringRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup2.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup2.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup2.Name = "filteringRibbonPageGroup2"
@@ -2839,7 +2817,6 @@
 			' 
 			' masterFilterRibbonPageGroup1
 			' 
-			Me.masterFilterRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup1.ItemLinks.Add(Me.masterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup1.ItemLinks.Add(Me.multipleValuesMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup1.ItemLinks.Add(Me.drillDownBarItem1)
@@ -2862,7 +2839,6 @@
 			' 
 			' interactivitySettingsRibbonPageGroup2
 			' 
-			Me.interactivitySettingsRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup2.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup2.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup2.Name = "interactivitySettingsRibbonPageGroup2"
@@ -2874,7 +2850,6 @@
 			' 
 			' commonItemDesignRibbonPageGroup2
 			' 
-			Me.commonItemDesignRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup2.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup2.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup2.Name = "commonItemDesignRibbonPageGroup2"
@@ -2887,7 +2862,6 @@
 			' 
 			' gridStyleRibbonPageGroup1
 			' 
-			Me.gridStyleRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.gridStyleRibbonPageGroup1.ItemLinks.Add(Me.gridHorizontalLinesBarItem1)
 			Me.gridStyleRibbonPageGroup1.ItemLinks.Add(Me.gridVerticalLinesBarItem1)
 			Me.gridStyleRibbonPageGroup1.ItemLinks.Add(Me.gridBandedRowsBarItem1)
@@ -2910,7 +2884,6 @@
 			' 
 			' gridLayoutRibbonPageGroup1
 			' 
-			Me.gridLayoutRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.gridLayoutRibbonPageGroup1.ItemLinks.Add(Me.gridMergeCellsBarItem1)
 			Me.gridLayoutRibbonPageGroup1.ItemLinks.Add(Me.gridColumnHeadersBarItem1)
 			Me.gridLayoutRibbonPageGroup1.ItemLinks.Add(Me.gridWordWrapBarItem1)
@@ -2933,7 +2906,6 @@
 			' 
 			' gridColumnWidthModeRibbonPageGroup1
 			' 
-			Me.gridColumnWidthModeRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.gridColumnWidthModeRibbonPageGroup1.ItemLinks.Add(Me.gridAutoFitToContentsColumnWidthModeBarItem1)
 			Me.gridColumnWidthModeRibbonPageGroup1.ItemLinks.Add(Me.gridAutoFitToGridColumnWidthModeBarItem1)
 			Me.gridColumnWidthModeRibbonPageGroup1.ItemLinks.Add(Me.manualGridColumnWidthModeBarItem1)
@@ -2956,7 +2928,6 @@
 			' 
 			' filteringRibbonPageGroup3
 			' 
-			Me.filteringRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup3.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup3.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup3.Name = "filteringRibbonPageGroup3"
@@ -2976,7 +2947,6 @@
 			' 
 			' masterFilterRibbonPageGroup2
 			' 
-			Me.masterFilterRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup2.ItemLinks.Add(Me.masterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup2.ItemLinks.Add(Me.multipleValuesMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup2.ItemLinks.Add(Me.drillDownBarItem1)
@@ -2984,14 +2954,12 @@
 			' 
 			' interactivitySettingsRibbonPageGroup3
 			' 
-			Me.interactivitySettingsRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup3.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup3.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup3.Name = "interactivitySettingsRibbonPageGroup3"
 			' 
 			' targetDimensionsRibbonPageGroup1
 			' 
-			Me.targetDimensionsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.targetDimensionsRibbonPageGroup1.ItemLinks.Add(Me.chartTargetDimensionsArgumentsBarItem1)
 			Me.targetDimensionsRibbonPageGroup1.ItemLinks.Add(Me.chartTargetDimensionsSeriesBarItem1)
 			Me.targetDimensionsRibbonPageGroup1.ItemLinks.Add(Me.chartTargetDimensionsPointsBarItem1)
@@ -3014,7 +2982,6 @@
 			' 
 			' commonItemDesignRibbonPageGroup3
 			' 
-			Me.commonItemDesignRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup3.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup3.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup3.Name = "commonItemDesignRibbonPageGroup3"
@@ -3027,7 +2994,6 @@
 			' 
 			' chartLayoutPageGroup1
 			' 
-			Me.chartLayoutPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.chartLayoutPageGroup1.ItemLinks.Add(Me.chartRotateBarItem1)
 			Me.chartLayoutPageGroup1.ItemLinks.Add(Me.chartXAxisSettingsBarItem1)
 			Me.chartLayoutPageGroup1.ItemLinks.Add(Me.chartYAxisSettingsBarItem1)
@@ -3050,7 +3016,6 @@
 			' 
 			' chartLegendPositionPageGroup1
 			' 
-			Me.chartLegendPositionPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.chartLegendPositionPageGroup1.ItemLinks.Add(Me.chartShowLegendBarItem1)
 			Me.chartLegendPositionPageGroup1.ItemLinks.Add(Me.galleryChartLegendPositionItem1)
 			Me.chartLegendPositionPageGroup1.Name = "chartLegendPositionPageGroup1"
@@ -3100,7 +3065,6 @@
 			' 
 			' chartStylePageGroup1
 			' 
-			Me.chartStylePageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.chartStylePageGroup1.ItemLinks.Add(Me.galleryChartSeriesTypeItem1)
 			Me.chartStylePageGroup1.Name = "chartStylePageGroup1"
 			' 
@@ -3145,7 +3109,6 @@
 			' 
 			' coloringOptionsRibbonPageGroup1
 			' 
-			Me.coloringOptionsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.coloringOptionsRibbonPageGroup1.ItemLinks.Add(Me.useGlobalColorsBarItem1)
 			Me.coloringOptionsRibbonPageGroup1.ItemLinks.Add(Me.useLocalColorsBarItem1)
 			Me.coloringOptionsRibbonPageGroup1.ItemLinks.Add(Me.editActualColorsBarItem1)
@@ -3168,7 +3131,6 @@
 			' 
 			' filteringRibbonPageGroup4
 			' 
-			Me.filteringRibbonPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup4.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup4.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup4.Name = "filteringRibbonPageGroup4"
@@ -3188,7 +3150,6 @@
 			' 
 			' masterFilterRibbonPageGroup3
 			' 
-			Me.masterFilterRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup3.ItemLinks.Add(Me.masterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup3.ItemLinks.Add(Me.multipleValuesMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup3.ItemLinks.Add(Me.drillDownBarItem1)
@@ -3196,14 +3157,12 @@
 			' 
 			' interactivitySettingsRibbonPageGroup4
 			' 
-			Me.interactivitySettingsRibbonPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup4.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup4.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup4.Name = "interactivitySettingsRibbonPageGroup4"
 			' 
 			' commonItemDesignRibbonPageGroup4
 			' 
-			Me.commonItemDesignRibbonPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup4.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup4.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup4.Name = "commonItemDesignRibbonPageGroup4"
@@ -3216,7 +3175,6 @@
 			' 
 			' scatterChartLayoutPageGroup1
 			' 
-			Me.scatterChartLayoutPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.scatterChartLayoutPageGroup1.ItemLinks.Add(Me.scatterChartRotateBarItem1)
 			Me.scatterChartLayoutPageGroup1.ItemLinks.Add(Me.scatterChartXAxisSettingsBarItem1)
 			Me.scatterChartLayoutPageGroup1.ItemLinks.Add(Me.scatterChartYAxisSettingsBarItem1)
@@ -3239,7 +3197,6 @@
 			' 
 			' scatterChartPointLabelPageGroup1
 			' 
-			Me.scatterChartPointLabelPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.scatterChartPointLabelPageGroup1.ItemLinks.Add(Me.scatterChartPointLabelOptionsBarItem1)
 			Me.scatterChartPointLabelPageGroup1.Name = "scatterChartPointLabelPageGroup1"
 			' 
@@ -3250,7 +3207,6 @@
 			' 
 			' scatterChartLegendPositionPageGroup1
 			' 
-			Me.scatterChartLegendPositionPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.scatterChartLegendPositionPageGroup1.ItemLinks.Add(Me.scatterChartShowLegendBarItem1)
 			Me.scatterChartLegendPositionPageGroup1.ItemLinks.Add(Me.galleryScatterChartLegendPositionItem1)
 			Me.scatterChartLegendPositionPageGroup1.Name = "scatterChartLegendPositionPageGroup1"
@@ -3300,7 +3256,6 @@
 			' 
 			' coloringOptionsRibbonPageGroup2
 			' 
-			Me.coloringOptionsRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.coloringOptionsRibbonPageGroup2.ItemLinks.Add(Me.useGlobalColorsBarItem1)
 			Me.coloringOptionsRibbonPageGroup2.ItemLinks.Add(Me.useLocalColorsBarItem1)
 			Me.coloringOptionsRibbonPageGroup2.ItemLinks.Add(Me.editActualColorsBarItem1)
@@ -3308,7 +3263,6 @@
 			' 
 			' filteringRibbonPageGroup5
 			' 
-			Me.filteringRibbonPageGroup5.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup5.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup5.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup5.Name = "filteringRibbonPageGroup5"
@@ -3328,7 +3282,6 @@
 			' 
 			' masterFilterRibbonPageGroup4
 			' 
-			Me.masterFilterRibbonPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup4.ItemLinks.Add(Me.masterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup4.ItemLinks.Add(Me.multipleValuesMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup4.ItemLinks.Add(Me.drillDownBarItem1)
@@ -3336,14 +3289,12 @@
 			' 
 			' interactivitySettingsRibbonPageGroup5
 			' 
-			Me.interactivitySettingsRibbonPageGroup5.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup5.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup5.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup5.Name = "interactivitySettingsRibbonPageGroup5"
 			' 
 			' targetDimensionsRibbonPageGroup2
 			' 
-			Me.targetDimensionsRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.targetDimensionsRibbonPageGroup2.ItemLinks.Add(Me.pieTargetDimensionsArgumentsBarItem1)
 			Me.targetDimensionsRibbonPageGroup2.ItemLinks.Add(Me.pieTargetDimensionsSeriesBarItem1)
 			Me.targetDimensionsRibbonPageGroup2.ItemLinks.Add(Me.pieTargetDimensionsPointsBarItem1)
@@ -3366,7 +3317,6 @@
 			' 
 			' commonItemDesignRibbonPageGroup5
 			' 
-			Me.commonItemDesignRibbonPageGroup5.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup5.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup5.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup5.Name = "commonItemDesignRibbonPageGroup5"
@@ -3379,7 +3329,6 @@
 			' 
 			' contentArrangementRibbonPageGroup1
 			' 
-			Me.contentArrangementRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.contentArrangementRibbonPageGroup1.ItemLinks.Add(Me.contentAutoArrangeBarItem1)
 			Me.contentArrangementRibbonPageGroup1.ItemLinks.Add(Me.contentArrangeInColumnsBarItem1)
 			Me.contentArrangementRibbonPageGroup1.ItemLinks.Add(Me.contentArrangeInRowsBarItem1)
@@ -3419,7 +3368,6 @@
 			' 
 			' pieLabelsRibbonPageGroup1
 			' 
-			Me.pieLabelsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.pieLabelsRibbonPageGroup1.ItemLinks.Add(Me.pieLabelsDataLabelsBarItem1)
 			Me.pieLabelsRibbonPageGroup1.ItemLinks.Add(Me.pieLabelPositionBarItem1)
 			Me.pieLabelsRibbonPageGroup1.ItemLinks.Add(Me.pieTooltipsBarItem1)
@@ -3560,7 +3508,6 @@
 			' 
 			' pieStyleRibbonPageGroup1
 			' 
-			Me.pieStyleRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.pieStyleRibbonPageGroup1.ItemLinks.Add(Me.pieStylePieBarItem1)
 			Me.pieStyleRibbonPageGroup1.ItemLinks.Add(Me.pieStyleDonutBarItem1)
 			Me.pieStyleRibbonPageGroup1.Name = "pieStyleRibbonPageGroup1"
@@ -3582,7 +3529,6 @@
 			' 
 			' coloringOptionsRibbonPageGroup3
 			' 
-			Me.coloringOptionsRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.coloringOptionsRibbonPageGroup3.ItemLinks.Add(Me.useGlobalColorsBarItem1)
 			Me.coloringOptionsRibbonPageGroup3.ItemLinks.Add(Me.useLocalColorsBarItem1)
 			Me.coloringOptionsRibbonPageGroup3.ItemLinks.Add(Me.editActualColorsBarItem1)
@@ -3590,7 +3536,6 @@
 			' 
 			' filteringRibbonPageGroup6
 			' 
-			Me.filteringRibbonPageGroup6.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup6.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup6.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup6.Name = "filteringRibbonPageGroup6"
@@ -3610,7 +3555,6 @@
 			' 
 			' masterFilterRibbonPageGroup5
 			' 
-			Me.masterFilterRibbonPageGroup5.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup5.ItemLinks.Add(Me.masterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup5.ItemLinks.Add(Me.multipleValuesMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup5.ItemLinks.Add(Me.drillDownBarItem1)
@@ -3618,14 +3562,12 @@
 			' 
 			' interactivitySettingsRibbonPageGroup6
 			' 
-			Me.interactivitySettingsRibbonPageGroup6.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup6.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup6.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup6.Name = "interactivitySettingsRibbonPageGroup6"
 			' 
 			' commonItemDesignRibbonPageGroup6
 			' 
-			Me.commonItemDesignRibbonPageGroup6.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup6.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup6.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup6.Name = "commonItemDesignRibbonPageGroup6"
@@ -3638,7 +3580,6 @@
 			' 
 			' contentArrangementRibbonPageGroup2
 			' 
-			Me.contentArrangementRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.contentArrangementRibbonPageGroup2.ItemLinks.Add(Me.contentAutoArrangeBarItem1)
 			Me.contentArrangementRibbonPageGroup2.ItemLinks.Add(Me.contentArrangeInColumnsBarItem1)
 			Me.contentArrangementRibbonPageGroup2.ItemLinks.Add(Me.contentArrangeInRowsBarItem1)
@@ -3647,7 +3588,6 @@
 			' 
 			' gaugeStyleRibbonPageGroup1
 			' 
-			Me.gaugeStyleRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.gaugeStyleRibbonPageGroup1.ItemLinks.Add(Me.gaugeStyleFullCircularBarItem1)
 			Me.gaugeStyleRibbonPageGroup1.ItemLinks.Add(Me.gaugeStyleHalfCircularBarItem1)
 			Me.gaugeStyleRibbonPageGroup1.ItemLinks.Add(Me.gaugeStyleLeftQuarterCircularBarItem1)
@@ -3694,7 +3634,6 @@
 			' 
 			' gaugesLabelsRibbonPageGroup1
 			' 
-			Me.gaugesLabelsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.gaugesLabelsRibbonPageGroup1.ItemLinks.Add(Me.gaugeShowCaptionsBarItem1)
 			Me.gaugesLabelsRibbonPageGroup1.Name = "gaugesLabelsRibbonPageGroup1"
 			' 
@@ -3705,7 +3644,6 @@
 			' 
 			' filteringRibbonPageGroup7
 			' 
-			Me.filteringRibbonPageGroup7.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup7.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup7.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup7.Name = "filteringRibbonPageGroup7"
@@ -3725,7 +3663,6 @@
 			' 
 			' masterFilterRibbonPageGroup6
 			' 
-			Me.masterFilterRibbonPageGroup6.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup6.ItemLinks.Add(Me.masterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup6.ItemLinks.Add(Me.multipleValuesMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup6.ItemLinks.Add(Me.drillDownBarItem1)
@@ -3733,14 +3670,12 @@
 			' 
 			' interactivitySettingsRibbonPageGroup7
 			' 
-			Me.interactivitySettingsRibbonPageGroup7.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup7.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup7.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup7.Name = "interactivitySettingsRibbonPageGroup7"
 			' 
 			' commonItemDesignRibbonPageGroup7
 			' 
-			Me.commonItemDesignRibbonPageGroup7.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup7.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup7.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup7.Name = "commonItemDesignRibbonPageGroup7"
@@ -3753,7 +3688,6 @@
 			' 
 			' contentArrangementRibbonPageGroup3
 			' 
-			Me.contentArrangementRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.contentArrangementRibbonPageGroup3.ItemLinks.Add(Me.contentAutoArrangeBarItem1)
 			Me.contentArrangementRibbonPageGroup3.ItemLinks.Add(Me.contentArrangeInColumnsBarItem1)
 			Me.contentArrangementRibbonPageGroup3.ItemLinks.Add(Me.contentArrangeInRowsBarItem1)
@@ -3762,7 +3696,6 @@
 			' 
 			' filteringRibbonPageGroup8
 			' 
-			Me.filteringRibbonPageGroup8.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup8.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup8.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup8.Name = "filteringRibbonPageGroup8"
@@ -3782,14 +3715,12 @@
 			' 
 			' interactivitySettingsRibbonPageGroup8
 			' 
-			Me.interactivitySettingsRibbonPageGroup8.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup8.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup8.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup8.Name = "interactivitySettingsRibbonPageGroup8"
 			' 
 			' commonItemDesignRibbonPageGroup8
 			' 
-			Me.commonItemDesignRibbonPageGroup8.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup8.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup8.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup8.Name = "commonItemDesignRibbonPageGroup8"
@@ -3802,7 +3733,6 @@
 			' 
 			' rangeFilterSeriesTypeRibbonPageGroup1
 			' 
-			Me.rangeFilterSeriesTypeRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.rangeFilterSeriesTypeRibbonPageGroup1.ItemLinks.Add(Me.galleryRangeFilterSeriesTypeItem1)
 			Me.rangeFilterSeriesTypeRibbonPageGroup1.Name = "rangeFilterSeriesTypeRibbonPageGroup1"
 			' 
@@ -3831,7 +3761,6 @@
 			' 
 			' rangeFilterInteractivityRibbonPageGroup1
 			' 
-			Me.rangeFilterInteractivityRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.rangeFilterInteractivityRibbonPageGroup1.ItemLinks.Add(Me.rangeFilterEditDateTimePeriodsBarItem1)
 			Me.rangeFilterInteractivityRibbonPageGroup1.Name = "rangeFilterInteractivityRibbonPageGroup1"
 			' 
@@ -3842,7 +3771,6 @@
 			' 
 			' coloringOptionsRibbonPageGroup4
 			' 
-			Me.coloringOptionsRibbonPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.coloringOptionsRibbonPageGroup4.ItemLinks.Add(Me.useGlobalColorsBarItem1)
 			Me.coloringOptionsRibbonPageGroup4.ItemLinks.Add(Me.useLocalColorsBarItem1)
 			Me.coloringOptionsRibbonPageGroup4.ItemLinks.Add(Me.editActualColorsBarItem1)
@@ -3850,7 +3778,6 @@
 			' 
 			' filteringRibbonPageGroup9
 			' 
-			Me.filteringRibbonPageGroup9.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup9.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup9.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup9.Name = "filteringRibbonPageGroup9"
@@ -3870,21 +3797,18 @@
 			' 
 			' masterFilterRibbonPageGroup7
 			' 
-			Me.masterFilterRibbonPageGroup7.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup7.ItemLinks.Add(Me.masterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup7.ItemLinks.Add(Me.multipleValuesMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup7.Name = "masterFilterRibbonPageGroup7"
 			' 
 			' interactivitySettingsRibbonPageGroup9
 			' 
-			Me.interactivitySettingsRibbonPageGroup9.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup9.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup9.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup9.Name = "interactivitySettingsRibbonPageGroup9"
 			' 
 			' commonItemDesignRibbonPageGroup9
 			' 
-			Me.commonItemDesignRibbonPageGroup9.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup9.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup9.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup9.Name = "commonItemDesignRibbonPageGroup9"
@@ -3897,7 +3821,6 @@
 			' 
 			' mapShapefileRibbonPageGroup1
 			' 
-			Me.mapShapefileRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapShapefileRibbonPageGroup1.ItemLinks.Add(Me.mapLoadBarItem1)
 			Me.mapShapefileRibbonPageGroup1.ItemLinks.Add(Me.mapImportBarItem1)
 			Me.mapShapefileRibbonPageGroup1.ItemLinks.Add(Me.mapDefaultShapefileBarItem1)
@@ -3971,7 +3894,6 @@
 			' 
 			' mapNavigationPageGroup1
 			' 
-			Me.mapNavigationPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapNavigationPageGroup1.ItemLinks.Add(Me.mapLockNavigationBarItem1)
 			Me.mapNavigationPageGroup1.ItemLinks.Add(Me.mapFullExtentBarItem1)
 			Me.mapNavigationPageGroup1.Name = "mapNavigationPageGroup1"
@@ -3988,7 +3910,6 @@
 			' 
 			' mapShapeLabelsAttributePageGroup1
 			' 
-			Me.mapShapeLabelsAttributePageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapShapeLabelsAttributePageGroup1.ItemLinks.Add(Me.choroplethMapShapeLabelsAttributeBarItem1)
 			Me.mapShapeLabelsAttributePageGroup1.Name = "mapShapeLabelsAttributePageGroup1"
 			' 
@@ -3999,7 +3920,6 @@
 			' 
 			' mapLegendPositionPageGroup1
 			' 
-			Me.mapLegendPositionPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapLegendPositionPageGroup1.ItemLinks.Add(Me.mapShowLegendBarItem1)
 			Me.mapLegendPositionPageGroup1.ItemLinks.Add(Me.galleryMapLegendPositionItem1)
 			Me.mapLegendPositionPageGroup1.Name = "mapLegendPositionPageGroup1"
@@ -4037,7 +3957,6 @@
 			' 
 			' filteringRibbonPageGroup10
 			' 
-			Me.filteringRibbonPageGroup10.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup10.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup10.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup10.Name = "filteringRibbonPageGroup10"
@@ -4057,21 +3976,18 @@
 			' 
 			' masterFilterRibbonPageGroup8
 			' 
-			Me.masterFilterRibbonPageGroup8.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup8.ItemLinks.Add(Me.masterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup8.ItemLinks.Add(Me.multipleValuesMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup8.Name = "masterFilterRibbonPageGroup8"
 			' 
 			' interactivitySettingsRibbonPageGroup10
 			' 
-			Me.interactivitySettingsRibbonPageGroup10.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup10.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup10.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup10.Name = "interactivitySettingsRibbonPageGroup10"
 			' 
 			' geoPointMapClusterizationRibbonPageGroup1
 			' 
-			Me.geoPointMapClusterizationRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.geoPointMapClusterizationRibbonPageGroup1.ItemLinks.Add(Me.geoPointMapClusterizationBarItem1)
 			Me.geoPointMapClusterizationRibbonPageGroup1.Name = "geoPointMapClusterizationRibbonPageGroup1"
 			' 
@@ -4082,7 +3998,6 @@
 			' 
 			' commonItemDesignRibbonPageGroup10
 			' 
-			Me.commonItemDesignRibbonPageGroup10.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup10.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup10.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup10.Name = "commonItemDesignRibbonPageGroup10"
@@ -4095,7 +4010,6 @@
 			' 
 			' mapShapefileRibbonPageGroup2
 			' 
-			Me.mapShapefileRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapShapefileRibbonPageGroup2.ItemLinks.Add(Me.mapLoadBarItem1)
 			Me.mapShapefileRibbonPageGroup2.ItemLinks.Add(Me.mapImportBarItem1)
 			Me.mapShapefileRibbonPageGroup2.ItemLinks.Add(Me.mapDefaultShapefileBarItem1)
@@ -4103,14 +4017,12 @@
 			' 
 			' mapNavigationPageGroup2
 			' 
-			Me.mapNavigationPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapNavigationPageGroup2.ItemLinks.Add(Me.mapLockNavigationBarItem1)
 			Me.mapNavigationPageGroup2.ItemLinks.Add(Me.mapFullExtentBarItem1)
 			Me.mapNavigationPageGroup2.Name = "mapNavigationPageGroup2"
 			' 
 			' mapShapeLabelsAttributePageGroup2
 			' 
-			Me.mapShapeLabelsAttributePageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapShapeLabelsAttributePageGroup2.ItemLinks.Add(Me.mapShapeTitleAttributeBarItem1)
 			Me.mapShapeLabelsAttributePageGroup2.Name = "mapShapeLabelsAttributePageGroup2"
 			' 
@@ -4121,7 +4033,6 @@
 			' 
 			' filteringRibbonPageGroup11
 			' 
-			Me.filteringRibbonPageGroup11.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup11.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup11.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup11.Name = "filteringRibbonPageGroup11"
@@ -4141,27 +4052,23 @@
 			' 
 			' masterFilterRibbonPageGroup9
 			' 
-			Me.masterFilterRibbonPageGroup9.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup9.ItemLinks.Add(Me.masterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup9.ItemLinks.Add(Me.multipleValuesMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup9.Name = "masterFilterRibbonPageGroup9"
 			' 
 			' interactivitySettingsRibbonPageGroup11
 			' 
-			Me.interactivitySettingsRibbonPageGroup11.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup11.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup11.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup11.Name = "interactivitySettingsRibbonPageGroup11"
 			' 
 			' geoPointMapClusterizationRibbonPageGroup2
 			' 
-			Me.geoPointMapClusterizationRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.geoPointMapClusterizationRibbonPageGroup2.ItemLinks.Add(Me.geoPointMapClusterizationBarItem1)
 			Me.geoPointMapClusterizationRibbonPageGroup2.Name = "geoPointMapClusterizationRibbonPageGroup2"
 			' 
 			' commonItemDesignRibbonPageGroup11
 			' 
-			Me.commonItemDesignRibbonPageGroup11.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup11.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup11.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup11.Name = "commonItemDesignRibbonPageGroup11"
@@ -4174,7 +4081,6 @@
 			' 
 			' mapShapefileRibbonPageGroup3
 			' 
-			Me.mapShapefileRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapShapefileRibbonPageGroup3.ItemLinks.Add(Me.mapLoadBarItem1)
 			Me.mapShapefileRibbonPageGroup3.ItemLinks.Add(Me.mapImportBarItem1)
 			Me.mapShapefileRibbonPageGroup3.ItemLinks.Add(Me.mapDefaultShapefileBarItem1)
@@ -4182,27 +4088,23 @@
 			' 
 			' mapNavigationPageGroup3
 			' 
-			Me.mapNavigationPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapNavigationPageGroup3.ItemLinks.Add(Me.mapLockNavigationBarItem1)
 			Me.mapNavigationPageGroup3.ItemLinks.Add(Me.mapFullExtentBarItem1)
 			Me.mapNavigationPageGroup3.Name = "mapNavigationPageGroup3"
 			' 
 			' mapShapeLabelsAttributePageGroup3
 			' 
-			Me.mapShapeLabelsAttributePageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapShapeLabelsAttributePageGroup3.ItemLinks.Add(Me.mapShapeTitleAttributeBarItem1)
 			Me.mapShapeLabelsAttributePageGroup3.Name = "mapShapeLabelsAttributePageGroup3"
 			' 
 			' mapLegendPositionPageGroup2
 			' 
-			Me.mapLegendPositionPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapLegendPositionPageGroup2.ItemLinks.Add(Me.mapShowLegendBarItem1)
 			Me.mapLegendPositionPageGroup2.ItemLinks.Add(Me.galleryMapLegendPositionItem1)
 			Me.mapLegendPositionPageGroup2.Name = "mapLegendPositionPageGroup2"
 			' 
 			' weightedLegendPageGroup1
 			' 
-			Me.weightedLegendPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.weightedLegendPageGroup1.ItemLinks.Add(Me.changeWeightedLegendTypeBarItem1)
 			Me.weightedLegendPageGroup1.ItemLinks.Add(Me.galleryWeightedLegendPositionItem1)
 			Me.weightedLegendPageGroup1.Name = "weightedLegendPageGroup1"
@@ -4254,7 +4156,6 @@
 			' 
 			' filteringRibbonPageGroup12
 			' 
-			Me.filteringRibbonPageGroup12.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup12.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup12.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup12.Name = "filteringRibbonPageGroup12"
@@ -4274,27 +4175,23 @@
 			' 
 			' masterFilterRibbonPageGroup10
 			' 
-			Me.masterFilterRibbonPageGroup10.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup10.ItemLinks.Add(Me.masterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup10.ItemLinks.Add(Me.multipleValuesMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup10.Name = "masterFilterRibbonPageGroup10"
 			' 
 			' interactivitySettingsRibbonPageGroup12
 			' 
-			Me.interactivitySettingsRibbonPageGroup12.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup12.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup12.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup12.Name = "interactivitySettingsRibbonPageGroup12"
 			' 
 			' geoPointMapClusterizationRibbonPageGroup3
 			' 
-			Me.geoPointMapClusterizationRibbonPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.geoPointMapClusterizationRibbonPageGroup3.ItemLinks.Add(Me.geoPointMapClusterizationBarItem1)
 			Me.geoPointMapClusterizationRibbonPageGroup3.Name = "geoPointMapClusterizationRibbonPageGroup3"
 			' 
 			' commonItemDesignRibbonPageGroup12
 			' 
-			Me.commonItemDesignRibbonPageGroup12.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup12.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup12.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup12.Name = "commonItemDesignRibbonPageGroup12"
@@ -4307,7 +4204,6 @@
 			' 
 			' mapShapefileRibbonPageGroup4
 			' 
-			Me.mapShapefileRibbonPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapShapefileRibbonPageGroup4.ItemLinks.Add(Me.mapLoadBarItem1)
 			Me.mapShapefileRibbonPageGroup4.ItemLinks.Add(Me.mapImportBarItem1)
 			Me.mapShapefileRibbonPageGroup4.ItemLinks.Add(Me.mapDefaultShapefileBarItem1)
@@ -4315,34 +4211,29 @@
 			' 
 			' mapNavigationPageGroup4
 			' 
-			Me.mapNavigationPageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapNavigationPageGroup4.ItemLinks.Add(Me.mapLockNavigationBarItem1)
 			Me.mapNavigationPageGroup4.ItemLinks.Add(Me.mapFullExtentBarItem1)
 			Me.mapNavigationPageGroup4.Name = "mapNavigationPageGroup4"
 			' 
 			' mapShapeLabelsAttributePageGroup4
 			' 
-			Me.mapShapeLabelsAttributePageGroup4.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapShapeLabelsAttributePageGroup4.ItemLinks.Add(Me.mapShapeTitleAttributeBarItem1)
 			Me.mapShapeLabelsAttributePageGroup4.Name = "mapShapeLabelsAttributePageGroup4"
 			' 
 			' mapLegendPositionPageGroup3
 			' 
-			Me.mapLegendPositionPageGroup3.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.mapLegendPositionPageGroup3.ItemLinks.Add(Me.mapShowLegendBarItem1)
 			Me.mapLegendPositionPageGroup3.ItemLinks.Add(Me.galleryMapLegendPositionItem1)
 			Me.mapLegendPositionPageGroup3.Name = "mapLegendPositionPageGroup3"
 			' 
 			' weightedLegendPageGroup2
 			' 
-			Me.weightedLegendPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.weightedLegendPageGroup2.ItemLinks.Add(Me.changeWeightedLegendTypeBarItem1)
 			Me.weightedLegendPageGroup2.ItemLinks.Add(Me.galleryWeightedLegendPositionItem1)
 			Me.weightedLegendPageGroup2.Name = "weightedLegendPageGroup2"
 			' 
 			' pieMapOptionsPageGroup1
 			' 
-			Me.pieMapOptionsPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.pieMapOptionsPageGroup1.ItemLinks.Add(Me.pieMapIsWeightedBarItem1)
 			Me.pieMapOptionsPageGroup1.Name = "pieMapOptionsPageGroup1"
 			' 
@@ -4353,7 +4244,6 @@
 			' 
 			' coloringOptionsRibbonPageGroup5
 			' 
-			Me.coloringOptionsRibbonPageGroup5.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.coloringOptionsRibbonPageGroup5.ItemLinks.Add(Me.useGlobalColorsBarItem1)
 			Me.coloringOptionsRibbonPageGroup5.ItemLinks.Add(Me.useLocalColorsBarItem1)
 			Me.coloringOptionsRibbonPageGroup5.ItemLinks.Add(Me.editActualColorsBarItem1)
@@ -4361,7 +4251,6 @@
 			' 
 			' filteringRibbonPageGroup13
 			' 
-			Me.filteringRibbonPageGroup13.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup13.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup13.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup13.Name = "filteringRibbonPageGroup13"
@@ -4381,14 +4270,12 @@
 			' 
 			' interactivitySettingsRibbonPageGroup13
 			' 
-			Me.interactivitySettingsRibbonPageGroup13.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup13.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup13.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup13.Name = "interactivitySettingsRibbonPageGroup13"
 			' 
 			' commonItemDesignRibbonPageGroup13
 			' 
-			Me.commonItemDesignRibbonPageGroup13.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup13.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup13.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup13.Name = "commonItemDesignRibbonPageGroup13"
@@ -4401,7 +4288,6 @@
 			' 
 			' filterElementTypeRibbonPageGroup1
 			' 
-			Me.filterElementTypeRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filterElementTypeRibbonPageGroup1.ItemLinks.Add(Me.comboBoxStandardTypeBarItem1)
 			Me.filterElementTypeRibbonPageGroup1.ItemLinks.Add(Me.comboBoxCheckedTypeBarItem1)
 			Me.filterElementTypeRibbonPageGroup1.ItemLinks.Add(Me.listBoxCheckedTypeBarItem1)
@@ -4431,7 +4317,6 @@
 			' 
 			' filterElementItemOptionsRibbonPageGroup1
 			' 
-			Me.filterElementItemOptionsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filterElementItemOptionsRibbonPageGroup1.ItemLinks.Add(Me.filterElementShowAllValueBarItem1)
 			Me.filterElementItemOptionsRibbonPageGroup1.ItemLinks.Add(Me.filterElementEnableSearchBarItem1)
 			Me.filterElementItemOptionsRibbonPageGroup1.Name = "filterElementItemOptionsRibbonPageGroup1"
@@ -4449,14 +4334,12 @@
 			' 
 			' treeViewOptionsRibbonPageGroup1
 			' 
-			Me.treeViewOptionsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.treeViewOptionsRibbonPageGroup1.ItemLinks.Add(Me.filterElementEnableSearchBarItem1)
 			Me.treeViewOptionsRibbonPageGroup1.Name = "treeViewOptionsRibbonPageGroup1"
 			Me.treeViewOptionsRibbonPageGroup1.Visible = False
 			' 
 			' treeViewLayoutRibbonPageGroup1
 			' 
-			Me.treeViewLayoutRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.treeViewLayoutRibbonPageGroup1.ItemLinks.Add(Me.treeViewAutoExpandBarItem1)
 			Me.treeViewLayoutRibbonPageGroup1.Name = "treeViewLayoutRibbonPageGroup1"
 			Me.treeViewLayoutRibbonPageGroup1.Visible = False
@@ -4468,7 +4351,6 @@
 			' 
 			' interactivitySettingsRibbonPageGroup14
 			' 
-			Me.interactivitySettingsRibbonPageGroup14.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup14.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup14.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup14.Name = "interactivitySettingsRibbonPageGroup14"
@@ -4488,7 +4370,6 @@
 			' 
 			' dateFilterLayoutRibbonPageGroup1
 			' 
-			Me.dateFilterLayoutRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.dateFilterLayoutRibbonPageGroup1.ItemLinks.Add(Me.dateFilterTypeBarItem1)
 			Me.dateFilterLayoutRibbonPageGroup1.ItemLinks.Add(Me.dateFilterArrangementModeBarItem1)
 			Me.dateFilterLayoutRibbonPageGroup1.ItemLinks.Add(Me.dateFilterDatePickerLocationBarItem1)
@@ -4586,7 +4467,6 @@
 			' 
 			' dateFilterInteractivityRibbonPageGroup1
 			' 
-			Me.dateFilterInteractivityRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.dateFilterInteractivityRibbonPageGroup1.ItemLinks.Add(Me.dateFilterEditDateTimePeriodsBarItem1)
 			Me.dateFilterInteractivityRibbonPageGroup1.Name = "dateFilterInteractivityRibbonPageGroup1"
 			' 
@@ -4597,7 +4477,6 @@
 			' 
 			' filteringRibbonPageGroup14
 			' 
-			Me.filteringRibbonPageGroup14.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup14.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup14.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup14.Name = "filteringRibbonPageGroup14"
@@ -4617,13 +4496,11 @@
 			' 
 			' interactivitySettingsRibbonPageGroup15
 			' 
-			Me.interactivitySettingsRibbonPageGroup15.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup15.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup15.Name = "interactivitySettingsRibbonPageGroup15"
 			' 
 			' commonItemDesignRibbonPageGroup14
 			' 
-			Me.commonItemDesignRibbonPageGroup14.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup14.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup14.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup14.Name = "commonItemDesignRibbonPageGroup14"
@@ -4636,7 +4513,6 @@
 			' 
 			' imageSizeModeRibbonPageGroup1
 			' 
-			Me.imageSizeModeRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.imageSizeModeRibbonPageGroup1.ItemLinks.Add(Me.imageSizeModeClipBarItem1)
 			Me.imageSizeModeRibbonPageGroup1.ItemLinks.Add(Me.imageSizeModeStretchBarItem1)
 			Me.imageSizeModeRibbonPageGroup1.ItemLinks.Add(Me.imageSizeModeSqueezeBarItem1)
@@ -4665,7 +4541,6 @@
 			' 
 			' imageAlignmentRibbonPageGroup1
 			' 
-			Me.imageAlignmentRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.imageAlignmentRibbonPageGroup1.ItemLinks.Add(Me.imageAlignmentTopLeftBarItem1)
 			Me.imageAlignmentRibbonPageGroup1.ItemLinks.Add(Me.imageAlignmentCenterLeftBarItem1)
 			Me.imageAlignmentRibbonPageGroup1.ItemLinks.Add(Me.imageAlignmentBottomLeftBarItem1)
@@ -4733,7 +4608,6 @@
 			' 
 			' filteringRibbonPageGroup15
 			' 
-			Me.filteringRibbonPageGroup15.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup15.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup15.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup15.Name = "filteringRibbonPageGroup15"
@@ -4753,13 +4627,11 @@
 			' 
 			' interactivitySettingsRibbonPageGroup16
 			' 
-			Me.interactivitySettingsRibbonPageGroup16.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup16.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup16.Name = "interactivitySettingsRibbonPageGroup16"
 			' 
 			' commonItemDesignRibbonPageGroup15
 			' 
-			Me.commonItemDesignRibbonPageGroup15.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup15.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup15.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup15.Name = "commonItemDesignRibbonPageGroup15"
@@ -4772,7 +4644,6 @@
 			' 
 			' textBoxEditingRibbonPageGroup1
 			' 
-			Me.textBoxEditingRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.textBoxEditingRibbonPageGroup1.ItemLinks.Add(Me.textBoxEditTextBarItem1)
 			Me.textBoxEditingRibbonPageGroup1.ItemLinks.Add(Me.textBoxInsertFieldBarItem1)
 			Me.textBoxEditingRibbonPageGroup1.Name = "textBoxEditingRibbonPageGroup1"
@@ -4789,7 +4660,6 @@
 			' 
 			' filteringRibbonPageGroup16
 			' 
-			Me.filteringRibbonPageGroup16.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.filteringRibbonPageGroup16.ItemLinks.Add(Me.editFilterBarItem1)
 			Me.filteringRibbonPageGroup16.ItemLinks.Add(Me.clearFilterBarItem1)
 			Me.filteringRibbonPageGroup16.Name = "filteringRibbonPageGroup16"
@@ -4809,7 +4679,6 @@
 			' 
 			' masterFilterRibbonPageGroup11
 			' 
-			Me.masterFilterRibbonPageGroup11.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup11.ItemLinks.Add(Me.masterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup11.ItemLinks.Add(Me.multipleValuesMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup11.ItemLinks.Add(Me.drillDownBarItem1)
@@ -4817,14 +4686,12 @@
 			' 
 			' interactivitySettingsRibbonPageGroup17
 			' 
-			Me.interactivitySettingsRibbonPageGroup17.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.interactivitySettingsRibbonPageGroup17.ItemLinks.Add(Me.crossDataSourceFilteringBarItem1)
 			Me.interactivitySettingsRibbonPageGroup17.ItemLinks.Add(Me.ignoreMasterFiltersBarItem1)
 			Me.interactivitySettingsRibbonPageGroup17.Name = "interactivitySettingsRibbonPageGroup17"
 			' 
 			' commonItemDesignRibbonPageGroup16
 			' 
-			Me.commonItemDesignRibbonPageGroup16.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup16.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup16.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup16.Name = "commonItemDesignRibbonPageGroup16"
@@ -4837,7 +4704,6 @@
 			' 
 			' treemapLayoutRibbonPageGroup1
 			' 
-			Me.treemapLayoutRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.treemapLayoutRibbonPageGroup1.ItemLinks.Add(Me.treemapSliceAndDiceLayoutAlgorithmBarItem1)
 			Me.treemapLayoutRibbonPageGroup1.ItemLinks.Add(Me.treemapSquarifiedLayoutAlgorithmBarItem1)
 			Me.treemapLayoutRibbonPageGroup1.ItemLinks.Add(Me.treemapStripedLayoutAlgorithmBarItem1)
@@ -4893,7 +4759,6 @@
 			' 
 			' treemapTileLabelsRibbonPageGroup1
 			' 
-			Me.treemapTileLabelsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.treemapTileLabelsRibbonPageGroup1.ItemLinks.Add(Me.treemapTileLabelsBarItem1)
 			Me.treemapTileLabelsRibbonPageGroup1.ItemLinks.Add(Me.treemapTileTooltipsBarItem1)
 			Me.treemapTileLabelsRibbonPageGroup1.Name = "treemapTileLabelsRibbonPageGroup1"
@@ -4964,7 +4829,6 @@
 			' 
 			' treemapGroupLabelsRibbonPageGroup1
 			' 
-			Me.treemapGroupLabelsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.treemapGroupLabelsRibbonPageGroup1.ItemLinks.Add(Me.treemapGroupLabelsBarItem1)
 			Me.treemapGroupLabelsRibbonPageGroup1.ItemLinks.Add(Me.treemapGroupTooltipsBarItem1)
 			Me.treemapGroupLabelsRibbonPageGroup1.Name = "treemapGroupLabelsRibbonPageGroup1"
@@ -5035,7 +4899,6 @@
 			' 
 			' coloringOptionsRibbonPageGroup6
 			' 
-			Me.coloringOptionsRibbonPageGroup6.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.coloringOptionsRibbonPageGroup6.ItemLinks.Add(Me.useGlobalColorsBarItem1)
 			Me.coloringOptionsRibbonPageGroup6.ItemLinks.Add(Me.useLocalColorsBarItem1)
 			Me.coloringOptionsRibbonPageGroup6.ItemLinks.Add(Me.editActualColorsBarItem1)
@@ -5043,7 +4906,6 @@
 			' 
 			' commonItemDesignRibbonPageGroup17
 			' 
-			Me.commonItemDesignRibbonPageGroup17.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup17.ItemLinks.Add(Me.showItemCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup17.ItemLinks.Add(Me.editItemNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup17.Name = "commonItemDesignRibbonPageGroup17"
@@ -5063,7 +4925,6 @@
 			' 
 			' imageOpenRibbonPageGroup1
 			' 
-			Me.imageOpenRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.imageOpenRibbonPageGroup1.ItemLinks.Add(Me.imageLoadBarItem1)
 			Me.imageOpenRibbonPageGroup1.ItemLinks.Add(Me.imageImportBarItem1)
 			Me.imageOpenRibbonPageGroup1.Name = "imageOpenRibbonPageGroup1"
@@ -5080,7 +4941,6 @@
 			' 
 			' imageSizeModeRibbonPageGroup2
 			' 
-			Me.imageSizeModeRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.imageSizeModeRibbonPageGroup2.ItemLinks.Add(Me.imageSizeModeClipBarItem1)
 			Me.imageSizeModeRibbonPageGroup2.ItemLinks.Add(Me.imageSizeModeStretchBarItem1)
 			Me.imageSizeModeRibbonPageGroup2.ItemLinks.Add(Me.imageSizeModeSqueezeBarItem1)
@@ -5089,7 +4949,6 @@
 			' 
 			' imageAlignmentRibbonPageGroup2
 			' 
-			Me.imageAlignmentRibbonPageGroup2.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.imageAlignmentRibbonPageGroup2.ItemLinks.Add(Me.imageAlignmentTopLeftBarItem1)
 			Me.imageAlignmentRibbonPageGroup2.ItemLinks.Add(Me.imageAlignmentCenterLeftBarItem1)
 			Me.imageAlignmentRibbonPageGroup2.ItemLinks.Add(Me.imageAlignmentBottomLeftBarItem1)
@@ -5103,7 +4962,6 @@
 			' 
 			' masterFilterRibbonPageGroup12
 			' 
-			Me.masterFilterRibbonPageGroup12.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup12.ItemLinks.Add(Me.groupMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup12.ItemLinks.Add(Me.groupIgnoreMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup12.Name = "masterFilterRibbonPageGroup12"
@@ -5133,7 +4991,6 @@
 			' 
 			' commonItemDesignRibbonPageGroup18
 			' 
-			Me.commonItemDesignRibbonPageGroup18.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup18.ItemLinks.Add(Me.showGroupCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup18.ItemLinks.Add(Me.editGroupNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup18.Name = "commonItemDesignRibbonPageGroup18"
@@ -5156,7 +5013,6 @@
 			' 
 			' masterFilterRibbonPageGroup13
 			' 
-			Me.masterFilterRibbonPageGroup13.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.masterFilterRibbonPageGroup13.ItemLinks.Add(Me.tabPageMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup13.ItemLinks.Add(Me.tabPageIgnoreMasterFilterBarItem1)
 			Me.masterFilterRibbonPageGroup13.Name = "masterFilterRibbonPageGroup13"
@@ -5186,7 +5042,6 @@
 			' 
 			' commonItemDesignRibbonPageGroup19
 			' 
-			Me.commonItemDesignRibbonPageGroup19.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonItemDesignRibbonPageGroup19.ItemLinks.Add(Me.showTabPageCaptionBarItem1)
 			Me.commonItemDesignRibbonPageGroup19.ItemLinks.Add(Me.editTabPageNamesBarItem1)
 			Me.commonItemDesignRibbonPageGroup19.Name = "commonItemDesignRibbonPageGroup19"
@@ -5209,7 +5064,6 @@
 			' 
 			' tabPageLayoutRibbonPageGroup1
 			' 
-			Me.tabPageLayoutRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tabPageLayoutRibbonPageGroup1.ItemLinks.Add(Me.displayItemAsTabPageBarItem1)
 			Me.tabPageLayoutRibbonPageGroup1.Name = "tabPageLayoutRibbonPageGroup1"
 			' 
@@ -5220,7 +5074,6 @@
 			' 
 			' tabContainerReorderTabsRibbonPageGroup1
 			' 
-			Me.tabContainerReorderTabsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tabContainerReorderTabsRibbonPageGroup1.ItemLinks.Add(Me.reorderTabsBarItem1)
 			Me.tabContainerReorderTabsRibbonPageGroup1.Name = "tabContainerReorderTabsRibbonPageGroup1"
 			' 
@@ -5402,7 +5255,6 @@
 			' 
 			' commonRibbonPageGroup1
 			' 
-			Me.commonRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.commonRibbonPageGroup1.ItemLinks.Add(Me.undoItem1)
 			Me.commonRibbonPageGroup1.ItemLinks.Add(Me.redoItem1)
 			Me.commonRibbonPageGroup1.ItemLinks.Add(Me.fileOpenItem1)
@@ -5440,7 +5292,6 @@
 			' 
 			' clipboardRibbonPageGroup1
 			' 
-			Me.clipboardRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.clipboardRibbonPageGroup1.ItemLinks.Add(Me.pasteItem1)
 			Me.clipboardRibbonPageGroup1.ItemLinks.Add(Me.cutItem1)
 			Me.clipboardRibbonPageGroup1.ItemLinks.Add(Me.copyItem1)
@@ -5485,7 +5336,6 @@
 			' 
 			' fontRibbonPageGroup1
 			' 
-			Me.fontRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.fontRibbonPageGroup1.ItemLinks.Add(Me.barButtonGroup1)
 			Me.fontRibbonPageGroup1.ItemLinks.Add(Me.barButtonGroup2)
 			Me.fontRibbonPageGroup1.ItemLinks.Add(Me.barButtonGroup3)
@@ -5668,7 +5518,6 @@
 			' 
 			' paragraphRibbonPageGroup1
 			' 
-			Me.paragraphRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.paragraphRibbonPageGroup1.ItemLinks.Add(Me.barButtonGroup4)
 			Me.paragraphRibbonPageGroup1.ItemLinks.Add(Me.barButtonGroup5)
 			Me.paragraphRibbonPageGroup1.ItemLinks.Add(Me.barButtonGroup6)
@@ -5943,7 +5792,6 @@
 			' 
 			' stylesRibbonPageGroup1
 			' 
-			Me.stylesRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.stylesRibbonPageGroup1.ImageOptions.Image = (DirectCast(resources.GetObject("stylesRibbonPageGroup1.ImageOptions.Image"), System.Drawing.Image))
 			Me.stylesRibbonPageGroup1.ItemLinks.Add(Me.galleryChangeStyleItem1)
 			Me.stylesRibbonPageGroup1.Name = "stylesRibbonPageGroup1"
@@ -5962,7 +5810,6 @@
 			' 
 			' editingRibbonPageGroup1
 			' 
-			Me.editingRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.editingRibbonPageGroup1.ItemLinks.Add(Me.findItem1)
 			Me.editingRibbonPageGroup1.ItemLinks.Add(Me.replaceItem1)
 			Me.editingRibbonPageGroup1.Name = "editingRibbonPageGroup1"
@@ -5982,7 +5829,6 @@
 			' tablesRibbonPageGroup1
 			' 
 			Me.tablesRibbonPageGroup1.AllowTextClipping = False
-			Me.tablesRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tablesRibbonPageGroup1.ItemLinks.Add(Me.insertTableItem1)
 			Me.tablesRibbonPageGroup1.Name = "tablesRibbonPageGroup1"
 			' 
@@ -6000,7 +5846,6 @@
 			' 
 			' illustrationsRibbonPageGroup1
 			' 
-			Me.illustrationsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.illustrationsRibbonPageGroup1.ItemLinks.Add(Me.insertFloatingPictureItem1)
 			Me.illustrationsRibbonPageGroup1.Name = "illustrationsRibbonPageGroup1"
 			' 
@@ -6012,7 +5857,6 @@
 			' 
 			' linksRibbonPageGroup1
 			' 
-			Me.linksRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.linksRibbonPageGroup1.ItemLinks.Add(Me.insertBookmarkItem1)
 			Me.linksRibbonPageGroup1.ItemLinks.Add(Me.insertHyperlinkItem1)
 			Me.linksRibbonPageGroup1.Name = "linksRibbonPageGroup1"
@@ -6032,7 +5876,6 @@
 			' symbolsRibbonPageGroup1
 			' 
 			Me.symbolsRibbonPageGroup1.AllowTextClipping = False
-			Me.symbolsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.symbolsRibbonPageGroup1.ItemLinks.Add(Me.insertSymbolItem1)
 			Me.symbolsRibbonPageGroup1.Name = "symbolsRibbonPageGroup1"
 			' 
@@ -6045,7 +5888,6 @@
 			' pageBackgroundRibbonPageGroup1
 			' 
 			Me.pageBackgroundRibbonPageGroup1.AllowTextClipping = False
-			Me.pageBackgroundRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.pageBackgroundRibbonPageGroup1.ItemLinks.Add(Me.changePageColorItem1)
 			Me.pageBackgroundRibbonPageGroup1.Name = "pageBackgroundRibbonPageGroup1"
 			' 
@@ -6063,7 +5905,6 @@
 			' 
 			' tableStyleOptionsRibbonPageGroup1
 			' 
-			Me.tableStyleOptionsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tableStyleOptionsRibbonPageGroup1.ItemLinks.Add(Me.toggleFirstRowItem1)
 			Me.tableStyleOptionsRibbonPageGroup1.ItemLinks.Add(Me.toggleLastRowItem1)
 			Me.tableStyleOptionsRibbonPageGroup1.ItemLinks.Add(Me.toggleBandedRowsItem1)
@@ -6122,7 +5963,6 @@
 			' 
 			' tableStylesRibbonPageGroup1
 			' 
-			Me.tableStylesRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tableStylesRibbonPageGroup1.ItemLinks.Add(Me.galleryChangeTableStyleItem1)
 			Me.tableStylesRibbonPageGroup1.Name = "tableStylesRibbonPageGroup1"
 			' 
@@ -6145,7 +5985,6 @@
 			' 
 			' tableDrawBordersRibbonPageGroup1
 			' 
-			Me.tableDrawBordersRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tableDrawBordersRibbonPageGroup1.ItemLinks.Add(Me.changeTableBorderLineStyleItem1)
 			Me.tableDrawBordersRibbonPageGroup1.ItemLinks.Add(Me.changeTableBorderLineWeightItem1)
 			Me.tableDrawBordersRibbonPageGroup1.ItemLinks.Add(Me.changeTableBorderColorItem1)
@@ -6282,7 +6121,6 @@
 			' 
 			' tableTableRibbonPageGroup1
 			' 
-			Me.tableTableRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tableTableRibbonPageGroup1.ItemLinks.Add(Me.selectTableElementsItem1)
 			Me.tableTableRibbonPageGroup1.ItemLinks.Add(Me.toggleShowTableGridLinesItem1)
 			Me.tableTableRibbonPageGroup1.ItemLinks.Add(Me.showTablePropertiesFormItem1)
@@ -6338,7 +6176,6 @@
 			' 
 			' tableRowsAndColumnsRibbonPageGroup1
 			' 
-			Me.tableRowsAndColumnsRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tableRowsAndColumnsRibbonPageGroup1.ItemLinks.Add(Me.deleteTableElementsItem1)
 			Me.tableRowsAndColumnsRibbonPageGroup1.ItemLinks.Add(Me.insertTableRowAboveItem1)
 			Me.tableRowsAndColumnsRibbonPageGroup1.ItemLinks.Add(Me.insertTableRowBelowItem1)
@@ -6408,7 +6245,6 @@
 			' 
 			' tableMergeRibbonPageGroup1
 			' 
-			Me.tableMergeRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tableMergeRibbonPageGroup1.ItemLinks.Add(Me.mergeTableCellsItem1)
 			Me.tableMergeRibbonPageGroup1.ItemLinks.Add(Me.showSplitTableCellsForm1)
 			Me.tableMergeRibbonPageGroup1.ItemLinks.Add(Me.splitTableItem1)
@@ -6435,7 +6271,6 @@
 			' tableCellSizeRibbonPageGroup1
 			' 
 			Me.tableCellSizeRibbonPageGroup1.AllowTextClipping = False
-			Me.tableCellSizeRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tableCellSizeRibbonPageGroup1.ItemLinks.Add(Me.toggleTableAutoFitItem1)
 			Me.tableCellSizeRibbonPageGroup1.Name = "tableCellSizeRibbonPageGroup1"
 			' 
@@ -6470,7 +6305,6 @@
 			' 
 			' tableAlignmentRibbonPageGroup1
 			' 
-			Me.tableAlignmentRibbonPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.tableAlignmentRibbonPageGroup1.ImageOptions.Image = (DirectCast(resources.GetObject("tableAlignmentRibbonPageGroup1.ImageOptions.Image"), System.Drawing.Image))
 			Me.tableAlignmentRibbonPageGroup1.ItemLinks.Add(Me.toggleTableCellsTopLeftAlignmentItem1)
 			Me.tableAlignmentRibbonPageGroup1.ItemLinks.Add(Me.toggleTableCellsMiddleLeftAlignmentItem1)
@@ -6546,7 +6380,6 @@
 			' 
 			' floatingPictureToolsShapeStylesPageGroup1
 			' 
-			Me.floatingPictureToolsShapeStylesPageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.floatingPictureToolsShapeStylesPageGroup1.ItemLinks.Add(Me.changeFloatingObjectFillColorItem1)
 			Me.floatingPictureToolsShapeStylesPageGroup1.ItemLinks.Add(Me.changeFloatingObjectOutlineColorItem1)
 			Me.floatingPictureToolsShapeStylesPageGroup1.ItemLinks.Add(Me.changeFloatingObjectOutlineWeightItem1)
@@ -6586,7 +6419,6 @@
 			' 
 			' floatingPictureToolsArrangePageGroup1
 			' 
-			Me.floatingPictureToolsArrangePageGroup1.CaptionButtonVisible = DevExpress.Utils.DefaultBoolean.False
 			Me.floatingPictureToolsArrangePageGroup1.ItemLinks.Add(Me.changeFloatingObjectTextWrapTypeItem1)
 			Me.floatingPictureToolsArrangePageGroup1.ItemLinks.Add(Me.changeFloatingObjectAlignmentItem1)
 			Me.floatingPictureToolsArrangePageGroup1.ItemLinks.Add(Me.floatingObjectBringForwardSubItem1)
