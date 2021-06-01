@@ -24,6 +24,5 @@ API in this example:
 * [DashboardDesigner.ReloadDataAsync](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardDesigner.ReloadDataAsync.overloads) method
 * [DashboardDesigner.DataSourceOptions.ObjectDataSourceLoadingBehavior](https://docs.devexpress.com/CoreLibraries/DevExpress.DataAccess.UI.Design.DataSourceOptionsContainer.ObjectDataSourceLoadingBehavior) property
 
-See also:
-
+## Documentation
 * [Asynchronous Mode](https://docs.devexpress.com/Dashboard/401305)
