@@ -3,7 +3,7 @@
 * [Form1.cs](./CS/DashboardDesignerAsyncModeExample/Form1.cs) (VB: [Form1.vb](./VB/DashboardDesignerAsyncModeExample/Form1.vb))
 <!-- default file list end -->
 
-# Dashboard Designer in Asynchronous Mode with Object Data Source
+# Dashboard for WinForms - Dashboard Designer in asynchronous mode with Object Data Source
 
 This example demonstrates the Dashboard Designer application that loads a dashboard bound to the object data source. The application can switch between synchronous and asynchronous mode.
 
