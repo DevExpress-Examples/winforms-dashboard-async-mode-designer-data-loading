@@ -25,4 +25,11 @@ API in this example:
 * [DashboardDesigner.DataSourceOptions.ObjectDataSourceLoadingBehavior](https://docs.devexpress.com/CoreLibraries/DevExpress.DataAccess.UI.Design.DataSourceOptionsContainer.ObjectDataSourceLoadingBehavior) property
 
 ## Documentation
-* [Asynchronous Mode](https://docs.devexpress.com/Dashboard/401305)
+
+- [Asynchronous Mode](https://docs.devexpress.com/Dashboard/401305)
+
+## More Examples
+
+- [Dashboard for WinForms - How to get filter values and set Master Filter asynchronously](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-random-filter)
+- [Dashboard for WinForms - How to invoke the Data Inspector asynchronously when the Dashboard is loaded](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-show-data-inspector)
+- [Dashboard for WinForms - How to create a slide show with asynchronous Maximize and Restore methods](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-maximize-slide-show)
