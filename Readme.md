@@ -3,10 +3,6 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T828247)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-* [Form1.cs](./CS/DashboardDesignerAsyncModeExample/Form1.cs) (VB: [Form1.vb](./VB/DashboardDesignerAsyncModeExample/Form1.vb))
-<!-- default file list end -->
 
 # Dashboard for WinForms - Dashboard Designer in asynchronous mode with Object Data Source
 
@@ -28,6 +24,10 @@ API in this example:
 * [DashboardDesigner.ReloadData](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardDesigner.ReloadData.overloads) method
 * [DashboardDesigner.ReloadDataAsync](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardDesigner.ReloadDataAsync.overloads) method
 * [DashboardDesigner.DataSourceOptions.ObjectDataSourceLoadingBehavior](https://docs.devexpress.com/CoreLibraries/DevExpress.DataAccess.UI.Design.DataSourceOptionsContainer.ObjectDataSourceLoadingBehavior) property
+
+## Files To Review
+
+* [Form1.cs](./CS/DashboardDesignerAsyncModeExample/Form1.cs) (VB: [Form1.vb](./VB/DashboardDesignerAsyncModeExample/Form1.vb))
 
 ## Documentation
 
