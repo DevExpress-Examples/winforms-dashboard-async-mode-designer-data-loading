@@ -14,6 +14,7 @@ namespace DashboardDesignerAsyncModeExample
         [STAThread]
         static void Main()
         {
+            DevExpress.Utils.DeserializationSettings.RegisterTrustedClass(typeof(SalesData));
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
