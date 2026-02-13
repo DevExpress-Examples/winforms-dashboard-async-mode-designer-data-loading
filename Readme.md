@@ -40,7 +40,7 @@ API in this example:
 - [Dashboard for WinForms - How to invoke the Data Inspector asynchronously when the Dashboard is loaded](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-show-data-inspector)
 - [Dashboard for WinForms - How to create a slide show with asynchronous Maximize and Restore methods](https://github.com/DevExpress-Examples/winforms-dashboard-async-mode-maximize-slide-show)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-async-mode-designer-data-loading&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-async-mode-designer-data-loading&~~~was_helpful=no)
 
